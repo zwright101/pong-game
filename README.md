@@ -47,3 +47,7 @@ function update() {
   }
 }
 ```
+# Screenshot
+Here there's a screenshot of the game :
+
+![screenshot] (Pong Screenshot.png)
