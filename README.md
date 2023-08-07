@@ -50,4 +50,4 @@ function update() {
 # Screenshot
 Here there's a screenshot of the game :
 
-![screenshot] (Pong Screenshot.png)
+[Pong-Screenshot.png](https://postimg.cc/7JTfcHvc)
